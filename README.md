@@ -1,4 +1,4 @@
-# Calibre Yes24 OpenAPI Metadata Source Plugin
+# Calibre Yes24 Cover Download Plugin
 
 Yes24 캘리버 책 커버 다운로드 플러그인
 
