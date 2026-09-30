@@ -8,7 +8,8 @@ Yes24 OpenAPI를 이용한 캘리버 국내도서 메타데이터 다운로드 �
 
 ## 설치 방법
 
-1. 압축된 `Calibre-Yes24-Metadata-Plugin.zip` 파일을 받아 Calibre 환경설정 - 플러그인 - **파일에서 플러그인 불러오기**에서 플러그인을 등록한다.
+1. 압축된 `Calibre-Yes24-Metadata-Plugin.zip` 파일을 받아  
+Calibre 환경설정 - 플러그인 - **파일에서 플러그인 불러오기**에서 플러그인을 등록한다.
 2. [Yes24 Developers](https://developers.yes24.com/)에서 API Key를 발급받는다.
 3. **플러그인 사용자 정의**에서 발급받은 **API Key**를 입력한다.
 4. 메타데이터 편집하기에서 메타데이터 다운로드를 클릭하면 책 정보와 책 표지를 받아오게 된다.
